@@ -1,0 +1,5 @@
+- ![image.png](../assets/image_1737500790357_0.png)
+- opowiada o tym jak zmiany poziomu cukru wpływają na samopoczucie oraz zdrowie
+- najważniejsza puenta: "wypłaszczać krzywą cukrową"
+	- im łagodniejsze zmiany poziomu cukru tym lepiej
+-
