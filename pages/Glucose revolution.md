@@ -1,5 +1,6 @@
 - ![image.png](../assets/image_1737500790357_0.png)
-- opowiada o tym jak zmiany poziomu cukru wpływają na samopoczucie oraz zdrowie
-- najważniejsza puenta: "wypłaszczać krzywą cukrową"
-	- im łagodniejsze zmiany poziomu cukru tym lepiej
+- describes how changes in glucose levels in blood affects our feeling and health
+- biggest quote: "flatten your glucose curve"
+	- the slowest are changes in our glucose level, the better
+- fructose is bad for out health, but does not affect glucose level, so its inflence is skipped in this book
 -
